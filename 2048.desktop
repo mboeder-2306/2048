@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=2048
+Exec=webapp-container --app-id="2048.gsantner" $@ index.html
+Icon=favicon.ico
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,15 @@
+{
+    "name": "2048.gsantner",
+    "description": "2048 Slide-Game",
+    "architecture": "all",
+    "title": "2048",
+    "hooks": {
+        "2048": {
+            "apparmor": "2048.apparmor",
+            "desktop": "2048.desktop"
+        }
+    },
+    "version": "1.6",
+    "maintainer": "Gregor Santner <gregor-santner@email.com>",
+    "framework": "@CLICK_FRAMEWORK@"
+}
